@@ -7,7 +7,7 @@ Dopo aver scaricato il progetto:
 2. Naviga alla Directory Radice del Progetto. <br>
 ``` cd /percorso/del/tuo/progetto/CoPurchaseAnalysis ```
 3. Esegui il Comando sbt package: sbt scaricherà le dipendenze (se non già presenti), compilerà il tuo codice Scala e infine creerà il file JAR. <br>
-sbt package
+``` sbt package ```
 4. Individua il File JAR Creato: Una volta che il comando ha terminato con successo (vedrai un messaggio tipo [success] Total time: ...), il file JAR sarà stato creato nella seguente sottodirectory del tuo progetto. <br>
 ``` target/scala-2.12/copurchaseanalysis_2.12-0.1.0-SNAPSHOT.jar```
 
