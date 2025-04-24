@@ -1,5 +1,5 @@
-# Scalable and cloud programming - project
-Project for the UNIBO "Scalable and Cloud Programming" course (a.y. 2024-25).
+# Scalable and cloud programming - progetto
+Progetto per il corso UNIBO "Scalable and Cloud Programming" (2024-25).
 
 ## Generare il file .jar del progetto
 Dopo aver scaricato il progetto:
