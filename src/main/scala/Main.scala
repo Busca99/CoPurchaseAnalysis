@@ -26,7 +26,7 @@ object Main extends App {
     .appName("scp-co-purchase") // Nome applicazione
     // Configurazione delle risorse
     .config("spark.executor.memory", "5g") // Memoria per executor
-    .config("spark.executor.cores", "4")   // Core per executor (assicurati corrisponda alla config del cluster DataProc)
+    .config("spark.executor.cores", "4")   // Core per executor
     .config("spark.driver.memory", "4g")   // Memoria per il driver
     .getOrCreate()
 
